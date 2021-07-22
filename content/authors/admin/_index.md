@@ -7,10 +7,10 @@ education:
     institution: Georgia State University
     year: 2007
   - course: Masters in Economics
-    institution: Tilburg University, the Netherlands
+    institution: Tilburg University
     year: 1999
   - course: BA in Economics
-    institution: Asmara University, Eritrea
+    institution: Asmara University
     year: 1995
 email: ""
 highlight_name: false
@@ -37,9 +37,9 @@ social:
 # - icon: graduation-cap
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/abelembaye
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/abelembaye
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
@@ -47,6 +47,6 @@ superuser: true
 title: Abel Embaye
 ---
 
-Abel Embaye is is a Clinical Associate Professor of Economics at the University of Arkansas. His research interests include public finance, labor economics and applied econometrics.
+Abel Embaye is Clinical Associate Professor of Economics at the University of Arkansas. His research interests include public finance, labor economics and African economies.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Embaye-CV.pdf" "newtab" >}}CV{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Embaye-CV.pdf" "newtab" >}}CV{{< /staticref >}}
