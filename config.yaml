@@ -5,8 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Abel Embaye' # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://aembaye.netlify.app/' #'https://academic-demo.netlify.app/' # Website URL
+copyright: '© {year} Embaye powered by the Academic theme of Hugo' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -64,8 +64,8 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
-# markup:
-#   _merge: deep
+ # markup:
+ #   _merge: deep
 related:
   threshold: 80
   includeNewer: true

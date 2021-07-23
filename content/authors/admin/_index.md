@@ -1,6 +1,5 @@
 ---
-bio: My research interests include public finance, labor economics and management
-  matter.
+bio: My research interests include public finance, labor economics and African economies.
 education:
   courses:
   - course: PhD in Economics
@@ -20,7 +19,7 @@ interests:
 - African Economies
 organizations:
 - name: Department of Economics
-  url: https://walton.uark.edu/departments/economics/
+  url: https://walton.uark.edu/departments/economics/directory/uid/aembaye/name/Abel+Embaye/ #https://walton.uark.edu/departments/economics/
 - name: University of Arkansas
   url: https://www.uark.edu/
 role: Clinical Associate Professor of Economics
