@@ -28,7 +28,7 @@ main:
     url: "teaching/"
     weight: 70
   - name: Contact
-    url: '#contact'
-    #url: 'contact/'
+     #url: '#contact_in_homepage'
+    url: '/ContactPage'
     weight: 80
 

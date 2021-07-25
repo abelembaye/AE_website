@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: 'Abel Embaye' # Website name
 baseurl: 'https://aembaye.netlify.app/' #'https://academic-demo.netlify.app/' # Website URL
-copyright: '© {year} Embaye powered by the Academic theme of Hugo' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Embaye -- powered by the Academic theme of Hugo' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
