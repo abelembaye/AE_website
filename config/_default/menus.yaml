@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
+  - name: Home
     url: '#about'
     weight: 10
   # - name: Posts
@@ -20,13 +20,13 @@ main:
     #url: '#featured'
     #url: 'publication' 
     url: 'publication/'
-    weight: 50
+    weight: 61
   # - name: Courses
   #   url: courses/
   #   weight: 60
   - name: Teaching
     url: "teaching/"
-    weight: 70
+    weight: 50
   - name: Contact
      #url: '#contact_in_homepage'
     url: '/ContactPage'

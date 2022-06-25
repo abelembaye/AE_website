@@ -23,8 +23,3 @@ I teach the following courses at at University of Arkansas.
 - Econ 3333 (Public Economics)
 - Econ 4743 (Intro. to Econometrics)
 - Econ 4753 (Forecasting)
-
-# Exam Schedule for my courses this semester (Spring 2022)
-
-![screen reader text](exam_dates_Sp2022.PNG "Table 1")
-

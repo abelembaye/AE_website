@@ -1,4 +1,5 @@
 ---
+title: Abel Embaye
 bio: My research interests include public finance, labor economics and African economies.
 education:
   courses:
@@ -23,7 +24,7 @@ organizations:
 - name: University of Arkansas
   url: https://www.uark.edu/
 role: Clinical Associate Professor of Economics
-social:
+#social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: /#contact
@@ -43,7 +44,6 @@ social:
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
 superuser: true
-title: Abel Embaye
 ---
 
 Abel Embaye is Clinical Associate Professor of Economics at the University of Arkansas. His research interests include public finance, labor economics and African economies.
