@@ -17,7 +17,7 @@ date: "2016-09-01T00:00:00Z"
 doi: ""
 featured: false
 # image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#   caption: 'Image credit:     [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #   focal_point: ""
 #   preview_only: false
 #projects: []

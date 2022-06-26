@@ -12,15 +12,17 @@ education:
   - course: BA in Economics
     institution: Asmara University
     year: 1995
-email: ""
-highlight_name: false
+email: "" #aembaye@walton.uark.edu
+highlight_name: true
 interests:
 - Public Finance
 - Labor Economics
 - African Economies
 organizations:
 - name: Department of Economics
-  url: https://walton.uark.edu/departments/economics/directory/uid/aembaye/name/Abel+Embaye/ #https://walton.uark.edu/departments/economics/
+  url: https://walton.uark.edu/departments/economics/directory/uid/aembaye/name/Abel+Embaye/
+- name: Walton College of Business and Economics
+  url: https://walton.uark.edu
 - name: University of Arkansas
   url: https://www.uark.edu/
 role: Clinical Associate Professor of Economics
